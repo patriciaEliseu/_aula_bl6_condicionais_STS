@@ -1,3 +1,8 @@
+# Ignorar arquivos e pastas dentro de aula_bl6
+aula_bl6/bin/
+aula_bl6/.classpath
+aula_bl6/.project
+aula_bl6/.settings/
 
 # Diretórios e arquivos gerados pelo Eclipse/STS
 .metadata/
